@@ -16,5 +16,6 @@ public class CalcTest {
 		Calc c = new Calc();
 		c.sub(10,  20);
         assertEquals(-10, c.getResult());
+        
     }
 }
